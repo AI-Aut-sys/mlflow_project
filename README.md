@@ -1,11 +1,20 @@
 # mlflow_project
-Project for Module Machine Learning (*specific criteria)
-  -Time Seies dataset
-  -Include other features ( "T", "P", "h":relative humidity)
-  -Modular - src
-                -transform.py
-                -model.py
-  -MLflow dashboard
-    -(Log errors and parameters for 2 models )
-  -Documentation in Sphinx
-  -Upload on Github
+
+Project for the *Machine Learning* module.
+
+### Project Criteria
+
+- **Time Series Dataset**
+- **Include Additional Features**:  
+  `"T"` (Temperature), `"P"` (Pressure), `"h"` (Relative Humidity)
+- **Modular Code Structure**
+  
+src/
+├── transform.py
+└── model.py
+
+- **MLflow Dashboard**
+- Log errors and parameters for **two models**
+- **Documentation** using **Sphinx**
+- **Hosted on GitHub**
+
