@@ -15,5 +15,5 @@ src/model.py
 - **MLflow Dashboard**
    Log errors and parameters for **two models**
 - **Documentation** using **Sphinx**
-- **Hosted on GitHub**
+- **Upload on GitHub**
 
