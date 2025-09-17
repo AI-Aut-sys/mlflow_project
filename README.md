@@ -9,12 +9,11 @@ Project for the *Machine Learning* module.
   `"T"` (Temperature), `"P"` (Pressure), `"h"` (Relative Humidity)
 - **Modular Code Structure**
   
-src/
-├── transform.py
-└── model.py
+src/transform.py
+src/model.py
 
 - **MLflow Dashboard**
-- Log errors and parameters for **two models**
+   Log errors and parameters for **two models**
 - **Documentation** using **Sphinx**
 - **Hosted on GitHub**
 
