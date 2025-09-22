@@ -1,0 +1,19 @@
+data:
+  raw_data: "D://Users//desk//Documents//Artificial Intelligence Specialist - LEA.E3//GIT_projects//ml_Project//data//raw//cleaned_weather.csv"
+
+
+feature:
+  select_feature: ["date","p","T","rh"]
+  value_cols: "T"
+  time_col: "date"
+
+transform:
+  aggregate:
+    T: "mean"
+    p: "mean"
+    rh: "mean"
+
+prep:
+  test_size: 0.2
+
+
