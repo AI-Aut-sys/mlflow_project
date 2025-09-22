@@ -14,7 +14,7 @@ Project for the *Machine Learning* module.
   `'src/model.py'`
 
 - **MLflow Dashboard**:  
-  Log errors and parameters for **two models**
+  Log error and parameter for **two models**
 
 - **Documentation** using **Sphinx**
 
